@@ -1,0 +1,230 @@
+{
+  "0.003": [
+    {
+      "start": 0,
+      "objective": 2455.538887634498,
+      "success": true,
+      "message": "CONVERGENCE: RELATIVE REDUCTION OF F <= FACTR*EPSMCH",
+      "nit": 7,
+      "nfev": 450,
+      "seconds": 38.7124388217926
+    },
+    {
+      "start": 1,
+      "objective": 2455.5456310435006,
+      "success": true,
+      "message": "CONVERGENCE: NORM OF PROJECTED GRADIENT <= PGTOL",
+      "nit": 5,
+      "nfev": 200,
+      "seconds": 14.733116865158081
+    },
+    {
+      "start": 2,
+      "objective": 2455.5386372598764,
+      "success": true,
+      "message": "CONVERGENCE: NORM OF PROJECTED GRADIENT <= PGTOL",
+      "nit": 0,
+      "nfev": 25,
+      "seconds": 2.752743721008301
+    },
+    {
+      "start": 3,
+      "objective": 2455.5428317570036,
+      "success": true,
+      "message": "CONVERGENCE: NORM OF PROJECTED GRADIENT <= PGTOL",
+      "nit": 8,
+      "nfev": 400,
+      "seconds": 43.42444038391113
+    }
+  ],
+  "0.0104": [
+    {
+      "start": 0,
+      "objective": 6253.094951982558,
+      "success": true,
+      "message": "CONVERGENCE: RELATIVE REDUCTION OF F <= FACTR*EPSMCH",
+      "nit": 23,
+      "nfev": 1200,
+      "seconds": 250.0688350200653
+    },
+    {
+      "start": 1,
+      "objective": 6253.105213800598,
+      "success": true,
+      "message": "CONVERGENCE: RELATIVE REDUCTION OF F <= FACTR*EPSMCH",
+      "nit": 30,
+      "nfev": 1050,
+      "seconds": 211.73286938667297
+    },
+    {
+      "start": 2,
+      "objective": 6253.145705505767,
+      "success": true,
+      "message": "CONVERGENCE: RELATIVE REDUCTION OF F <= FACTR*EPSMCH",
+      "nit": 21,
+      "nfev": 1725,
+      "seconds": 321.8275640010834
+    },
+    {
+      "start": 3,
+      "objective": 6253.141280003736,
+      "success": false,
+      "message": "STOP: TOTAL NO. OF ITERATIONS REACHED LIMIT",
+      "nit": 40,
+      "nfev": 1200,
+      "seconds": 232.4315288066864
+    }
+  ],
+  "0.0178": [
+    {
+      "start": 0,
+      "objective": 7722.723250968306,
+      "success": true,
+      "message": "CONVERGENCE: RELATIVE REDUCTION OF F <= FACTR*EPSMCH",
+      "nit": 26,
+      "nfev": 1075,
+      "seconds": 232.34936261177063
+    },
+    {
+      "start": 1,
+      "objective": 7722.722609296311,
+      "success": true,
+      "message": "CONVERGENCE: RELATIVE REDUCTION OF F <= FACTR*EPSMCH",
+      "nit": 17,
+      "nfev": 675,
+      "seconds": 148.98281931877136
+    },
+    {
+      "start": 2,
+      "objective": 7722.722703005278,
+      "success": true,
+      "message": "CONVERGENCE: RELATIVE REDUCTION OF F <= FACTR*EPSMCH",
+      "nit": 23,
+      "nfev": 950,
+      "seconds": 203.5933337211609
+    },
+    {
+      "start": 3,
+      "objective": 7722.733695614273,
+      "success": true,
+      "message": "CONVERGENCE: RELATIVE REDUCTION OF F <= FACTR*EPSMCH",
+      "nit": 27,
+      "nfev": 975,
+      "seconds": 211.48178458213806
+    }
+  ],
+  "0.025199999999999997": [
+    {
+      "start": 0,
+      "objective": 8623.881944823306,
+      "success": true,
+      "message": "CONVERGENCE: RELATIVE REDUCTION OF F <= FACTR*EPSMCH",
+      "nit": 32,
+      "nfev": 1300,
+      "seconds": 277.78077816963196
+    },
+    {
+      "start": 1,
+      "objective": 8623.880595535227,
+      "success": false,
+      "message": "STOP: TOTAL NO. OF ITERATIONS REACHED LIMIT",
+      "nit": 40,
+      "nfev": 1375,
+      "seconds": 275.59047389030457
+    },
+    {
+      "start": 2,
+      "objective": 8623.87715466667,
+      "success": true,
+      "message": "CONVERGENCE: RELATIVE REDUCTION OF F <= FACTR*EPSMCH",
+      "nit": 38,
+      "nfev": 2375,
+      "seconds": 459.7892515659332
+    },
+    {
+      "start": 3,
+      "objective": 8623.880322480165,
+      "success": true,
+      "message": "CONVERGENCE: RELATIVE REDUCTION OF F <= FACTR*EPSMCH",
+      "nit": 33,
+      "nfev": 1300,
+      "seconds": 259.7212977409363
+    }
+  ],
+  "0.0326": [
+    {
+      "start": 0,
+      "objective": 9133.502972507607,
+      "success": true,
+      "message": "CONVERGENCE: RELATIVE REDUCTION OF F <= FACTR*EPSMCH",
+      "nit": 22,
+      "nfev": 1025,
+      "seconds": 217.92021560668945
+    },
+    {
+      "start": 1,
+      "objective": 9133.503358053209,
+      "success": true,
+      "message": "CONVERGENCE: RELATIVE REDUCTION OF F <= FACTR*EPSMCH",
+      "nit": 20,
+      "nfev": 650,
+      "seconds": 139.38911890983582
+    },
+    {
+      "start": 2,
+      "objective": 9133.499542007266,
+      "success": true,
+      "message": "CONVERGENCE: RELATIVE REDUCTION OF F <= FACTR*EPSMCH",
+      "nit": 30,
+      "nfev": 1525,
+      "seconds": 318.59946036338806
+    },
+    {
+      "start": 3,
+      "objective": 9133.499688738584,
+      "success": true,
+      "message": "CONVERGENCE: RELATIVE REDUCTION OF F <= FACTR*EPSMCH",
+      "nit": 30,
+      "nfev": 1100,
+      "seconds": 225.1387062072754
+    }
+  ],
+  "0.04": [
+    {
+      "start": 0,
+      "objective": 9450.868120960553,
+      "success": true,
+      "message": "CONVERGENCE: RELATIVE REDUCTION OF F <= FACTR*EPSMCH",
+      "nit": 31,
+      "nfev": 1225,
+      "seconds": 210.49598836898804
+    },
+    {
+      "start": 1,
+      "objective": 9450.868018664876,
+      "success": true,
+      "message": "CONVERGENCE: RELATIVE REDUCTION OF F <= FACTR*EPSMCH",
+      "nit": 27,
+      "nfev": 1500,
+      "seconds": 254.70311307907104
+    },
+    {
+      "start": 2,
+      "objective": 9450.868893376999,
+      "success": true,
+      "message": "CONVERGENCE: NORM OF PROJECTED GRADIENT <= PGTOL",
+      "nit": 22,
+      "nfev": 575,
+      "seconds": 91.54310941696167
+    },
+    {
+      "start": 3,
+      "objective": 9450.86821672789,
+      "success": true,
+      "message": "CONVERGENCE: RELATIVE REDUCTION OF F <= FACTR*EPSMCH",
+      "nit": 34,
+      "nfev": 1125,
+      "seconds": 190.72473049163818
+    }
+  ]
+}

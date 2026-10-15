@@ -1,0 +1,9 @@
+{
+  "scaled_weighted_singular_values": [
+    57.66399428351756,
+    0.2867993346573011,
+    0.12701383868422406
+  ],
+  "condition_number": 453.99772875835305,
+  "note": "Weighted local mean-response Jacobian at the lowest returned likelihood candidate, parameters scaled by nominal values; not a structural identifiability test."
+}

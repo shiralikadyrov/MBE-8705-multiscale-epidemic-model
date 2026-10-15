@@ -1,0 +1,66 @@
+[
+  {
+    "start": [
+      0.004,
+      1.0,
+      50.0
+    ],
+    "theta": [
+      0.021779401862555902,
+      1.9594749520476828,
+      216.73418489737986
+    ],
+    "negative_log_likelihood": 123.84466953095604,
+    "success": false,
+    "message": "ABNORMAL: ",
+    "nfev": 520
+  },
+  {
+    "start": [
+      0.025,
+      1.5,
+      120.0
+    ],
+    "theta": [
+      0.02126571716164182,
+      1.9330697943330735,
+      210.82410992743962
+    ],
+    "negative_log_likelihood": 123.85132382159757,
+    "success": false,
+    "message": "ABNORMAL: ",
+    "nfev": 604
+  },
+  {
+    "start": [
+      0.05,
+      1.1,
+      180.0
+    ],
+    "theta": [
+      0.022245727801482804,
+      1.9239542803521994,
+      212.15419042439567
+    ],
+    "negative_log_likelihood": 123.85054529153413,
+    "success": true,
+    "message": "CONVERGENCE: RELATIVE REDUCTION OF F <= FACTR*EPSMCH",
+    "nfev": 364
+  },
+  {
+    "start": [
+      0.015,
+      1.7,
+      100.0
+    ],
+    "theta": [
+      0.02208479349269867,
+      1.9735916655098193,
+      220.0
+    ],
+    "negative_log_likelihood": 123.8417685101105,
+    "success": false,
+    "message": "ABNORMAL: ",
+    "nfev": 580
+  }
+]

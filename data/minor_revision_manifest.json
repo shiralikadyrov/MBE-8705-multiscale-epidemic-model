@@ -1,0 +1,10 @@
+{
+  "calculation": "Fixed original 12-interval policies and existing random draws for baseline comparisons; four-start optimization at w_V=0",
+  "numpy": "2.3.5",
+  "scipy": "1.17.0",
+  "m": 12,
+  "seed_new_opt": 203,
+  "maxiter_new_opt": 40,
+  "same_perturbation_draws": true,
+  "baseline_alpha": 0.025199999999999997
+}
